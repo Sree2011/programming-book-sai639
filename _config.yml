@@ -5,7 +5,7 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - CONTRIBUTING.md
+ - CONTRIBUTING.md
   - README.md
   - LICENSE.md
   - COPYING.md
@@ -16,3 +16,7 @@ include:
 
 remote_theme: pages-themes/dinky@v0.2.0
 
+markdown: kramdown
+kramdown:
+  input: GFM
+  auto_ids: true
