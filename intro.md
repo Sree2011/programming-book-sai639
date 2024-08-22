@@ -1,10 +1,11 @@
-<p style="display:inline;margin-right:auto;">
+<p style="display:inline; margin-right: 20px;" align="left">
     <a href="./README.md">Table of Contents</a>
 </p>
 
-<p style="display:inline;margin-left:auto;">
+<p style="display:inline; margin-left: 20px;" align="right">
     <a href="./variables.md">Variables</a>
 </p>
+
 
 ## Introduction
 
