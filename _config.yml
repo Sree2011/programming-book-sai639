@@ -1,6 +1,10 @@
 plugins:
   - jekyll-relative-links
   - jekyll-remote-theme
+
+
+baseurl: "/programming-book-sai639"
+
 relative_links:
   enabled: true
   collections: true
