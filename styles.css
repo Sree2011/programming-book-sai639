@@ -1,0 +1,43 @@
+/* General styling for the TOC container */
+.toc {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 20px 0;
+    font-family: 'Georgia', serif;
+}
+
+/* Styling for the TOC heading */
+.toc h2 {
+    color: #2c3e50;
+    font-size: 24px;
+    margin-bottom: 15px;
+    border-bottom: 2px solid #3498db;
+    padding-bottom: 5px;
+}
+
+/* Styling for the TOC list */
+.toc ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+/* Styling for the TOC list items */
+.toc li {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+/* Styling for the TOC links */
+.toc a {
+    text-decoration: none;
+    color: #3498db;
+    transition: color 0.3s ease;
+}
+
+/* Hover effect for the TOC links */
+.toc a:hover {
+    color: #1abc9c;
+    text-decoration: underline;
+}
