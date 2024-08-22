@@ -8,7 +8,7 @@ title: Cover
 </p>
 
 <p style="display:inline; margin-left: 50px;" align="right">
-    <a href="/variables.md"><b>Variables &rarr;</b></a>
+    <a href="/programming-book-sai639/variables/"><b>Variables &rarr;</b></a>
 </p>
 
 
