@@ -13,12 +13,12 @@ This book aims to provide a comprehensive guide to basic programming topics for 
 ## Getting Started
 
 Before diving into the topics, make sure you have the necessary tools installed:
-- A code editor
-  This book uses visual studio code. Download it here:
+- A code editor\
+  This book uses visual studio code. Download it here:\
   [Download VSCode for your platform](https://code.visualstudio.com/download)
 
-- Github for version control (Optional)
-  Create an account or sign in to github here:
+- Github for version control (Optional)\
+  Create an account or sign in to github here:\
   [Github - Login or sign up](https://www.github.com)
 
 
