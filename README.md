@@ -3,9 +3,9 @@
 Welcome to the **Basic Programming Topics** book! This book covers fundamental concepts in various programming languages and technologies.
 
 
-# Table of Contents
 
-<a href="./_includes/table_of_contents.html" alt="toc">
+
+# [Table of Contents](./_includes/table_of_contents.html)
 
 ## Introduction
 
