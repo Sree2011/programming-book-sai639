@@ -4,7 +4,7 @@ Welcome to the **Basic Programming Topics** book! This book covers fundamental c
 
 ## Table of Contents
 
-{% include toc.html html=content %}
+<iframe src="table_of_contents.html" style="width:100%; height:400px; border:none;"></iframe>
 
 ## Introduction
 
