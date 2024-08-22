@@ -9,18 +9,15 @@ Welcome to the **Basic Programming Topics** book! This book covers fundamental c
 |:--:|:--:|:--:|
 |1|Introduction|[1](./intro.md)|
 |2|Variables|[2](./variables.md)|
+|3|Datatypes|[3](./datatypes.md)|
+|4|Input and Output|[4](./inout.md)|
+|5|Functions|[5](./functions.md)|
+|6|Conclusion|[6](./conclusion.md)|
 
 
-## Resources
 
-The official documentations:
-- [C language](https://www.gnu.org/software/c-intro-and-ref/manual/c-intro-and-ref.html)
-- [Java](https://docs.oracle.com/en/java/)
-- [Python](https://www.python.org/doc/)
+> Click on the page numbers to navigate to the respective page.
 
 
-## Conclusion
-
-Thank you for reading! I hope this book helps you on your programming journey. Feel free to contribute or suggest improvements.
 
 
