@@ -3,7 +3,7 @@
 Welcome to the **Basic Programming Topics** book! This book covers fundamental concepts in various programming languages and technologies.
 
 
-{% include toc.html %}
+{% include table_of_contents.html %}
 
 ## Introduction
 
