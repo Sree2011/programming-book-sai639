@@ -1,18 +1,10 @@
-{% include toc.html html=content %}
-
 # Basic Programming Topics
 
 Welcome to the **Basic Programming Topics** book! This book covers fundamental concepts in various programming languages and technologies.
 
 ## Table of Contents
 
-1. Introduction
-2. Getting Started
-3. Variables
-4. Datatypes
-5. Input and Output
-6. Functions
-10. Conclusion
+{% include toc.html html=content %}
 
 ## Introduction
 
