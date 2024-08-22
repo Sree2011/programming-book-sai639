@@ -21,6 +21,12 @@ Before diving into the topics, make sure you have the necessary tools installed:
   Create an account or sign in to github here:\
   [Github - Login or sign up](https://www.github.com)
 
+- Create and manage repositories on github:\
+  A repository is like a big project folder for your files.\
+  Learn more here:\
+  [Github Docs - Repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
+
+First, Create a public or private github repository to get started with the coding examples in this book, and successively add the files to the repository based on the name mentioned on the code snippet.
 
 ## Best Practices
 
