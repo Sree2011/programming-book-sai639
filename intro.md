@@ -1,3 +1,10 @@
+<p align="left">
+    <a href="./README.md">Table of Contents</a>
+</p>
+
+<p align="right">
+    <a href="./variables.md">Variables</a>
+</p>
 
 ## Introduction
 
