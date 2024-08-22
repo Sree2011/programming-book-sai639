@@ -1,9 +1,14 @@
+---
+layout: default
+title: Cover
+---
+
 <p style="display:inline; margin-right: 50px;" align="left">
-    <a href="./README.md"> <b>&larr; Table of Contents</b></a>
+    <a href="/"> <b>&larr; Table of Contents</b></a>
 </p>
 
 <p style="display:inline; margin-left: 50px;" align="right">
-    <a href="./variables.md"><b>Variables &rarr;</b></a>
+    <a href="/variables/"><b>Variables &rarr;</b></a>
 </p>
 
 

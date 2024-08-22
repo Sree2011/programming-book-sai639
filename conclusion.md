@@ -1,3 +1,7 @@
+---
+layout: default
+title: Conclusion
+---
 ## Resources
 
 The official documentations:
