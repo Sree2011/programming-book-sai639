@@ -1,8 +1,8 @@
-<p align="left">
+<p style="display:inline" align="left">
     <a href="./README.md">Table of Contents</a>
 </p>
 
-<p align="right">
+<p style="display:inline" hhalign="right">
     <a href="./variables.md">Variables</a>
 </p>
 
