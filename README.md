@@ -34,10 +34,11 @@ Follow best practices in coding, such as writing clean code, testing, and docume
 
 ## Resources
 
-Here are some additional resources to help you learn more:
-- Official Python Documentation
-- MDN Web Docs
-- GitHub Guides
+The official documentations:
+- [C language](https://www.gnu.org/software/c-intro-and-ref/manual/c-intro-and-ref.html)
+- [Java](https://docs.oracle.com/en/java/)
+- [Python](https://www.python.org/doc/)
+
 
 ## Conclusion
 
