@@ -3,7 +3,7 @@ layout: default
 title: Cover
 ---
 
-[&larr; Table of Contents](./README.md)
+[&larr; Table of Contents](./README.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Variables &rarr;](./variables.md)
 
 
 ## Introduction
@@ -32,4 +32,3 @@ First, Create a public or private github repository to get started with the codi
 
 Follow best practices in coding, such as writing clean code, testing, and documentation.
 
-[Variables &rarr;](./variables.md)
