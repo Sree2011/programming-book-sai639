@@ -9,11 +9,12 @@ Welcome to the **Basic Programming Topics** book! This book covers fundamental c
 |:--:|:--:|:--:|
 |1|Introduction|[1](./intro.md)|
 |2|Comments|[2](./comments.md)|
-|3|Variables|[2](./variables.md)|
-|4|Datatypes|[3](./datatypes.md)|
-|5|Input and Output|[4](./inout.md)|
-|6|Functions|[5](./functions.md)|
-|7|Conclusion|[6](./conclusion.md)|
+|3|Operators|[3](./operators.md)
+|4|Variables|[4](./variables.md)|
+|5|Datatypes|[5](./datatypes.md)|
+|6|Input and Output|[6](./inout.md)|
+|7|Functions|[7](./functions.md)|
+|8|Conclusion|[8](./conclusion.md)|
 
 
 
