@@ -3,17 +3,11 @@ layout: default
 title: Cover
 ---
 
-<p style="display:inline; margin-right: 50px;" align="left">
-    <a href="./README.md"> <b>&larr; Table of Contents</b></a>
-</p>
-
-<p style="display:inline; margin-left: 50px;" align="right">
-    <a href="./variables.md"><b>Variables &rarr;</b></a>
-</p>
+[&larr; Table of Contents](./README.md)
 
 
 ## Introduction
-
+s
 This book aims to provide a comprehensive guide to basic programming topics for beginners. Whether you're just starting out or looking to brush up on your skills, this book has something for you.
 
 ## Getting Started
@@ -37,3 +31,5 @@ First, Create a public or private github repository to get started with the codi
 ## Best Practices
 
 Follow best practices in coding, such as writing clean code, testing, and documentation.
+
+[Variables &rarr;](./variables.md)
