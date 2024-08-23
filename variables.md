@@ -29,13 +29,13 @@ Think of a variable as a labeled container where you can store different items (
 
 ## Creating variables
 
+> For information on datatypes, refer to [Datatypes](./datatypes.md)
+
 ### C programming:
 
 **Syntax:**
 
-DATATYPE variable_name;
-
-> For information on datatypes, refer to [Datatypes](./datatypes.md)
+DATATYPE variable_name = value;
 
 **Example:**
 ```c
@@ -54,8 +54,6 @@ void main(){
 
 DATATYPE variable_name = value;
 
-> For information on datatypes, refer to [Datatypes](./datatypes.md)
-
 **Example:**
 ```java
 // variables.java
@@ -73,9 +71,6 @@ public class variables{
 **Syntax:**
 
 variable_name = value
-
-
-> For information on datatypes, refer to [Datatypes](./datatypes.md)
 
 **Example:**
 ```python
